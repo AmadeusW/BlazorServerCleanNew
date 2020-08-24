@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p/h+gx1Q1E99IrizExQOa3VXeiDZ2p1dpXzr4xdpMI2IDQvQZQfXpxrq1+fSpWQEEPK6vtRr2Y7Pr/DJGAElag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rybrande\\projects\\temp\\BlazorServerCleanNew\\BlazorServerCleanNew\\blazorserver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rybrande\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
